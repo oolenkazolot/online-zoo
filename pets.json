@@ -2,114 +2,114 @@
   "pets": [
     {
       "id": 1,
-      "image": "../../assets/images/pets/card-1.png",
+      "image": "assets/images/pets/card-1.png",
       "name": "giant Pandas",
       "location": "Native to Southwest China",
-      "icon": "../../assets/images/pets/banana-bamboo-icon.svg",
+      "icon": "assets/images/pets/banana-bamboo-icon.svg",
       "food": "banana-bamboo"
     },
     {
       "id": 2,
-      "image": "../../assets/images/pets/card-2.png",
+      "image": "assets/images/pets/card-2.png",
       "name": "Eagles",
       "location": "Native to South America",
-      "icon": "../../assets/images/pets/meet-fish-icon.svg",
+      "icon": "assets/images/pets/meet-fish-icon.svg",
       "food": "meet-fish"
     },
     {
       "id": 3,
-      "image": "../../assets/images/pets/card-3.png",
+      "image": "assets/images/pets/card-3.png",
       "name": "Gorillas",
       "location": "Native to Congo",
-      "icon": "../../assets/images/pets/banana-bamboo-icon.svg",
+      "icon": "assets/images/pets/banana-bamboo-icon.svg",
       "food": "banana-bamboo"
     },
     {
       "id": 4,
-      "image": "../../assets/images/pets/card-4.png",
+      "image": "assets/images/pets/card-4.png",
       "name": "Two-toed Sloth",
       "location": "Mesoamerica, South America",
-      "icon": "../../assets/images/pets/banana-bamboo-icon.svg",
+      "icon": "assets/images/pets/banana-bamboo-icon.svg",
       "food": "banana-bamboo"
     },
     {
       "id": 5,
-      "image": "../../assets/images/pets/card-5.png",
+      "image": "assets/images/pets/card-5.png",
       "name": "cheetahs",
       "location": "Native to Africa",
-      "icon": "../../assets/images/pets/meet-fish-icon.svg",
+      "icon": "assets/images/pets/meet-fish-icon.svg",
       "food": "meet-fish"
     },
     {
       "id": 6,
-      "image": "../../assets/images/pets/card-6.png",
+      "image": "assets/images/pets/card-6.png",
       "name": "Penguins",
       "location": "Native to Antarctica",
-      "icon": "../../assets/images/pets/meet-fish-icon.svg",
+      "icon": "assets/images/pets/meet-fish-icon.svg",
       "food": "meet-fish"
     },
     {
       "id": 7,
-      "image": "../../assets/images/pets/card-7.png",
+      "image": "assets/images/pets/card-7.png",
       "name": "Alligators",
       "location": "Native to Southeastern United States",
-      "icon": "../../assets/images/pets/meet-fish-icon.svg",
+      "icon": "assets/images/pets/meet-fish-icon.svg",
       "food": "meet-fish"
     },
     {
       "id": 8,
-      "image": "../../assets/images/pets/card-8.png",
+      "image": "assets/images/pets/card-8.png",
       "name": "Koala Cam",
       "location": "South America, SAN DIEGO ZOO",
-      "icon": "../../assets/images/pets/banana-bamboo-icon.svg",
+      "icon": "assets/images/pets/banana-bamboo-icon.svg",
       "food": "banana-bamboo"
     },
     {
       "id": 9,
-      "image": "../../assets/images/pets/card-9.png",
+      "image": "assets/images/pets/card-9.png",
       "name": "Polar Cam",
       "location": "South America, SAN DIEGO ZOO",
-      "icon": "../../assets/images/pets/meet-fish-icon.svg",
+      "icon": "assets/images/pets/meet-fish-icon.svg",
       "food": "meet-fish"
     },
     {
       "id": 10,
-      "image": "../../assets/images/pets/card-10.png",
+      "image": "assets/images/pets/card-10.png",
       "name": "Ape Cam",
       "location": "South America,SAN DIEGO ZOO",
-      "icon": "../../assets/images/pets/banana-bamboo-icon.svg",
+      "icon": "assets/images/pets/banana-bamboo-icon.svg",
       "food": "banana-bamboo"
     },
     {
       "id": 11,
-      "image": "../../assets/images/pets/card-11.png",
+      "image": "assets/images/pets/card-11.png",
       "name": "Elephant Cam",
       "location": "SAFARI PARK",
-      "icon": "../../assets/images/pets/banana-bamboo-icon.svg",
+      "icon": "assets/images/pets/banana-bamboo-icon.svg",
       "food": "banana-bamboo"
     },
     {
       "id": 12,
-      "image": "../../assets/images/pets/card-12.png",
+      "image": "assets/images/pets/card-12.png",
       "name": "Giraffe Cam",
       "location": "SAFARI PARK",
-      "icon": "../../assets/images/pets/banana-bamboo-icon.svg",
+      "icon": "assets/images/pets/banana-bamboo-icon.svg",
       "food": ""
     },
     {
       "id": 13,
-      "image": "../../assets/images/pets/card-13.png",
+      "image": "assets/images/pets/card-13.png",
       "name": "Burrowing Owl Cams",
       "location": "SAFARI PARK",
-      "icon": "../../assets/images/pets/meet-fish-icon.svg",
+      "icon": "assets/images/pets/meet-fish-icon.svg",
       "food": "meet-fish"
     },
     {
       "id": 14,
-      "image": "../../assets/images/pets/card-14.png",
+      "image": "assets/images/pets/card-14.png",
       "name": "Hippo Cam Archive",
       "location": "South America,SAN DIEGO ZOO",
-      "icon": "../../assets/images/pets/banana-bamboo-icon.svg",
+      "icon": "assets/images/pets/banana-bamboo-icon.svg",
       "food": "banana-bamboo"
     }
   ]

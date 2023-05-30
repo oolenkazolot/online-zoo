@@ -2,7 +2,7 @@
   "testimonials": [
     {
       "id": 1,
-      "image": "../../assets/images/testimonials/user-icon.svg",
+      "image": "assets/images/testimonials/user-icon.svg",
       "name": "Michael John",
       "location": "Local Austria",
       "date": "Today",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "image": "../../assets/images/testimonials/user-icon2.svg",
+      "image": "assets/images/testimonials/user-icon2.svg",
       "name": "Oskar Samborsky",
       "location": "Local Austria",
       "date": "Yesterday",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "image": "../../assets/images/testimonials/user-icon3.svg",
+      "image": "assets/images/testimonials/user-icon3.svg",
       "name": "Fredericka Michelin",
       "location": "Local Austria",
       "date": "Today",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "image": "../../assets/images/testimonials/user-icon4.svg",
+      "image": "assets/images/testimonials/user-icon4.svg",
       "name": "Mila Riksha",
       "location": "Local Austria",
       "date": "Yesterday",
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "image": "../../assets/images/testimonials/user-icon.svg",
+      "image": "assets/images/testimonials/user-icon.svg",
       "name": "Michael John",
       "location": "Local Austria",
       "date": "Today",
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "image": "../../assets/images/testimonials/user-icon2.svg",
+      "image": "assets/images/testimonials/user-icon2.svg",
       "name": "Oskar Samborsky",
       "location": "Local Austria",
       "date": "Yesterday",
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "image": "../../assets/images/testimonials/user-icon3.svg",
+      "image": "assets/images/testimonials/user-icon3.svg",
       "name": "Fredericka Michelin",
       "location": "Local Austria",
       "date": "Today",
@@ -58,7 +58,7 @@
     },
     {
       "id": 8,
-      "image": "../../assets/images/testimonials/user-icon4.svg",
+      "image": "assets/images/testimonials/user-icon4.svg",
       "name": "Mila Riksha",
       "location": "Local Austria",
       "date": "Yesterday",
@@ -66,7 +66,7 @@
     },
     {
       "id": 9,
-      "image": "../../assets/images/testimonials/user-icon.svg",
+      "image": "assets/images/testimonials/user-icon.svg",
       "name": "Michael John",
       "location": "Local Austria",
       "date": "Today",
@@ -74,7 +74,7 @@
     },
     {
       "id": 10,
-      "image": "../../assets/images/testimonials/user-icon2.svg",
+      "image": "assets/images/testimonials/user-icon2.svg",
       "name": "Oskar Samborsky",
       "location": "Local Austria",
       "date": "Yesterday",
@@ -82,7 +82,7 @@
     },
     {
       "id": 11,
-      "image": "../../assets/images/testimonials/user-icon3.svg",
+      "image": "assets/images/testimonials/user-icon3.svg",
       "name": "Fredericka Michelin",
       "location": "Local Austria",
       "date": "Today",
