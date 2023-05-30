@@ -20,7 +20,7 @@ function closeMenu() {
 let dataTestimonials = [];
 
 async function getTestimonials() {
-  const url = `../../testimonials.json`;
+  const url = `./testimonials.json`;
 
   try {
     const res = await fetch(url);
@@ -265,7 +265,7 @@ const petsSliderArrowRight = document.getElementById('pets-slider-arrow-right');
 const petsSliderArrowLeft = document.getElementById('pets-slider-arrow-left');
 
 async function getPets() {
-  const url = `../../pets.json`;
+  const url = `./pets.json`;
 
   try {
     const res = await fetch(url);
