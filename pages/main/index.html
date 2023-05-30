@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Online-zoo</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="../../assets/styles/style.css" />
+    <script defer src="../../script.js"></script>
+  </head>
+  <body>
+    <header class="header" id="about">
+      <div class="container header__wrapper">
+        <h1 class="header__logo">
+          <a class="header__logo-link" href="../../pages/main/index.html">PetStory online
+            <img class="header__logo-icon header__logo-icon--white" src="../../assets/images/logo/bamboo.svg" alt="bamboo-svg">
+            <img class="header__logo-icon header__logo-icon--orange" src="../../assets/images/logo/bamboo-orange.svg" alt="bamboo-orange-svg">
+          </a>
+        </h1>
+        <nav class="header__nav">
+          <ul class="header__list">
+            <li>
+              <a class="header__link header__link--active" href="../../pages/main/index.html#about">About</a>
+            </li>
+            <li>
+              <a class="header__link" href="#map">Map</a>
+            </li>
+            <li>
+              <a class="header__link" href="#zoos">Zoos</a>
+            </li>
+            <li>
+              <a class="header__link" href="../../pages/donate/index.html" target="_blank">Donate</a>
+            </li>
+            <li>
+              <a class="header__link" href="#contacts">Contact us</a>
+            </li>
+          </ul>
+        </nav>
+        <a class="header__copyright" href="https://www.figma.com/file/jfEFwkXVj1WRq7sUHDr8os/PetStory-online" target="_blank">Designed by ©</a>
+        <div class="header__burger-menu">
+          <button class="header__burger-btn">
+            <i class="header__burger-icon icon-burger-menu"></i>
+          </button>
+          <div class="wrapper-menu" id="wrapper-menu">
+            <div class="background-menu"></div>
+            <div class="mobile-menu">
+              <button class="mobile-menu__btn">
+                <i class="mobile-menu__btn-close icon-cross"></i>
+              </button>
+              <div class="mobile-menu__logo">
+                <a class="mobile-menu__logo-link" href="../../pages/main/index.html">PetStory online
+                  <img class="mobile-menu__logo-icon" src="../../assets/images/logo/bamboo-orange.svg" alt="bamboo-orange-svg">
+                </a>
+              </div>
+              <ul class="mobile-menu__list">
+                <li class="mobile-menu__item"><a class="mobile-menu__link" href="../../pages/main/index.html">About</a></li>
+                <li class="mobile-menu__item"><a class="mobile-menu__link" href="#map">Map</a></li>
+                <li class="mobile-menu__item"><a class="mobile-menu__link" href="#zoos">Zoos</a></li>
+                <li class="mobile-menu__item"><a class="mobile-menu__link" href="../../pages/donate/index.html">Donate</a></li>
+                <li class="mobile-menu__item"><a class="mobile-menu__link" href="#contacts">Contact us</a></li>
+              </ul>
+              <a class="mobile-menu__copyright" href="https://www.figma.com/file/jfEFwkXVj1WRq7sUHDr8os/PetStory-online" target="_blank">Designed by ©</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main class="main">
+      <section class="animals-online">
+        <div class="container animals-online__wrapper">
+          <div class="animals-online__content">
+            <div class="animals-online__img-wrap">
+              <img class="animals-online__img" src="../../assets/images/animals/Ellipse-orange.png" alt="ellipse-orange-png" />
+              <span class="animals-online__img-text">Watch your <span class="animals-online__img-yellow">favorite</span> animal online</span>
+            </div>
+            <a class="animals-online__btn button" href="../../pages/main/index.html">watсh online</a>
+          </div>
+        </div>
+      </section>
+      <section class="the-backstage">
+        <div class="container the-backstage__wrapper">
+          <div class="the-backstage__block-left"></div>
+          <div class="the-backstage__block-right">
+            <h2 class="the-backstage__title">The Backstage of the Wilderness World.</h2>
+            <p class="the-backstage__description">The site was founded on the basis of a volunteer movement to protect and care for animals.</p>
+            <h3 class="the-backstage__title the-backstage__title--works">How it works</h3>
+            <p class="the-backstage__description the-backstage__description--works">
+              The main goal is to help the animals, as well as the nature reserves and zoos where they are kept. We are currently working on video projects targeting pandas in China, eagles on an
+              island near Los Angeles, alligators in Florida and gorillas in the Congo. These have a total of more than 1,500 mammals and reptiles.
+            </p>
+          </div>
+          <img class="the-backstage__img" src="../../assets/images/flower.png" alt="flower-png" />
+        </div>
+      </section>
+
+      <section class="pets">
+        <div class="container">
+          <div class="pets__block">
+            <div class="pets__slider-wrap">
+              <div id="pets-slider" class="pets__slider"></div>
+            </div>
+            <button id="pets-slider-arrow-left" class="pets__slider-btn arrow-left">
+              <i class="icon-arrow-left"></i>
+            </button>
+            <button id="pets-slider-arrow-right" class="pets__slider-btn arrow-right">
+              <i class="icon-arrow-right"></i>
+            </button>
+          </div>
+        </div>
+
+
+
+        <button class="pets__btn button">choose your favorite</button>
+        <img class="pets__img-palm" src="../../assets/images/pets/palm.png" alt="palm-png" />
+        <img class="pets__img-strelitzia" src="../../assets/images/pets/strelitzia.png" alt="strelitzia-png" />
+      </section>
+      <section class="feed-friend">
+        <div class="feed-friend__wrapper container">
+          <h2 class="feed-friend__title">Pick and feed a friend</h2>
+          <div class="feed-friend__content">
+            <p class="feed-friend__subtitle">We know the animals bring you joy, and in these extraordinary times, we’re glad.</p>
+            <p class="feed-friend__text-bold">During a time when the COVID-19 epidemic is touching all of our lives, we’re proud and glad that people around the world find joy in PetStory.</p>
+            <p class="feed-friend__text">
+              Even though the zoo has reopened, we need you now more than ever to help us deal with these problems. Please consider a gift to our
+              <a class="feed-friend__link" href="../../pages/donate/index.html" target="_blank">Emergency Support Fund</a>.
+            </p>
+          </div>
+          <h3 class="feed-friend__works-title">How it works</h3>
+          <div class="feed-friend__works">
+
+
+            <div class="feed-friend__item feed-friend__item--height ">
+              <div class="feed-friend__card">
+                <img class="feed-friend__img-pay" src="../../assets/images/feed-friend/pay.svg" alt="pay-svg">
+              </div>
+              <p class="feed-friend__card-title">Pay with card</p>
+            </div>
+            <img class="feed-friend__img-arrow feed-friend__img-arrow--top" src="../../assets/images/feed-friend/arrow.svg" alt="arrow-svg">
+            <div class="feed-friend__item">
+              <img class="feed-friend__works-arrow-right" src="../../assets/images/feed-friend/arrow-green.svg" alt="arrow-green-svg">
+              <div class="feed-friend__card">
+                <img class="feed-friend__img-zoo" src="../../assets/images/feed-friend/zoo.png" alt="zoo-png">
+              </div>
+              <p class="feed-friend__card-title">Payment goes to the zoo</p>
+            </div>
+            <img class="feed-friend__img-arrow" src="../../assets/images/feed-friend/arrow.svg" alt="arrow-svg">
+            <div class="feed-friend__item">
+              <img class="feed-friend__works-arrow-left" src="../../assets/images/feed-friend/arrow-green.svg" alt="arrow-green-svg">
+              <div class="feed-friend__card">
+                <img class="feed-friend__img-monkey" src="../../assets/images/feed-friend/monkey.svg" alt="monkey-svg">
+              </div>
+              <p class="feed-friend__card-title">Your favourite animal gets delicious dish</p>
+            </div>
+          </div>
+            <a class="feed-friend__btn button" href="../../pages/donate/index.html" target="_blank">
+              Feed a friend now
+            </a>
+        </div>
+        </div>
+      </section>
+      <section class="testimonials">
+        <div class="testimonials__wrapper container">
+          <h2 class="testimonials__title">Testimonials</h2>
+          <div class="testimonials__slider">
+            <div id="testimonials" class="testimonials__wrap"></div>
+          </div>
+          <div class="scroll-wrapper">
+            <input class="slider" id="myRange" type="range" min="0" max="7" value="0" step="1"> 
+          </div>
+          <div class="testimonials__btn-wrap">
+            <button class="testimonials__btn button button--secondary">leave feedback</button>
+          </div>
+          
+        </div>
+        <img class="testimonials__img" src="../../assets/images/testimonials/leaf.png" alt="leaf-png">
+      </div>  
+      </section>
+    </main>
+    <footer class="footer" id="contacts">
+      <div class="footer__wrap container">
+        <div class="footer__top">
+          <a class="footer__logo-link" href="../../pages/main/index.html">PetStory online
+            <img class="footer__logo-icon footer__logo-icon-white" src="../../assets/images/logo/bamboo.svg" alt="bamboo-svg">
+            <img class="footer__logo-icon footer__logo-icon--orange" src="../../assets/images/logo/bamboo-orange.svg" alt="bamboo-orange-svg">
+          </a>
+          <form class="footer__form" action="/">
+            <h3 class="footer__title">Subscribe to our news</h3>
+            <div class="footer__wrap-input">
+              <input class="footer__input input" type="email" id="email" name="email" placeholder="Enter your email" required><br>
+              <button class="footer__form-btn submit" type="submit">Submit</button> 
+            </div>
+          </form>
+        </div>
+        <div class="footer__middle">
+          <a class="footer__btn button button--secondary" href="../../pages/donate/index.html" target="_blank" >donate for volunteers</a>
+        </div>
+        <div class="footer__bottom">
+          <ul class="footer__socials">
+            <li class="footer__social-item"><a class="footer__social-link" href="https://www.facebook.com/" target="_blank">
+              <span class="footer__wrap-icon"><i class="icon-facebook "></i></span>
+              Facebook</a></li>
+            <li class="footer__social-item"><a class="footer__social-link" href="https://twitter.com/"  target="_blank"><span class="footer__wrap-icon"><i class="icon-twitter "></i></span>Twitter</a></li>
+            <li class="footer__social-item"><a class="footer__social-link" href="https://www.instagram.com/" target="_blank"><span class="footer__wrap-icon"><i class="icon-instagram "></i></span>Instagram</a></li>
+            <li class="footer__social-item"><a class="footer__social-link" href="https://www.youtube.com/" target="_blank"><span class="footer__wrap-icon"><i class="icon-youTube"></i></span>YouTube</a></li>
+          </ul>
+          <ul class="footer__list">
+            <li class="footer__list-item">
+              <a class="footer__link footer__link--active" href="../../pages/main/index.html#about">About</a>
+            </li>
+            <li class="footer__list-item">
+              <a class="footer__link" href="#map">Map</a>
+            </li>
+            <li class="footer__list-item">
+              <a class="footer__link" href="#zoos">Zoos</a>
+            </li>
+            <li class="footer__list-item">
+              <a class="footer__link" href="#contacts">Contact us</a>
+            </li>
+          </ul>
+          <div class="footer__copyright-wrap">
+            <a class="footer__copyright" href="https://www.figma.com/file/jfEFwkXVj1WRq7sUHDr8os/PetStory-online" target="_blank">
+              <span class="footer__author">Designed by Alisa Samborskaya</span>
+              <span class="footer__text">©RSSchool & ©Yem Digital 2021</span>
+          </a>
+          </div>
+
+      </div>
+    </footer>
+    <div id="testimonial-modal" class="testimonial-modal">
+      <div id="testimonial-modal-backdrop" class="testimonial-modal__backdrop"></div>
+      <div class="testimonial-modal__inner">
+        <button id="testimonial-modal-close" class="testimonial-modal__btn">
+          <i class="testimonial-modal__btn-close icon-cross"></i>
+        </button>
+        <div id="testimonial-modal-card" class="testimonial-modal__card"></div>
+      </div>
+    </div>
+  </body>
+</html>

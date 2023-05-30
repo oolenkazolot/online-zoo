@@ -1,0 +1,44 @@
+// colors
+$color-black-blue: #333b41;
+$color-orange: #fe9013;
+$color-yellow: #ffee2e;
+$color-white: #fff;
+$color-black: #000;
+$color-red: #d31414;
+$color-gray: #767474;
+$color-gray74: #bdbdbd;
+$color-gray2: #404950;
+$color-gray3: #929699;
+
+$color-pink-grad: linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #e0d8f0 80.49%, #eaf7fe 127.9%, #eaf7fe 149.54%),
+  linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #e0d8f0 80.49%, #eaf7fe 127.9%, #eaf7fe 149.54%);
+$color-pink-grad-slider: linear-gradient(180deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #e0d8f0 80.49%, #eaf7fe 127.9%, #eaf7fe 149.54%);
+$color-pink-grad-block: linear-gradient(290deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #e0d8f0 80.49%, #eaf7fe 127.9%, #eaf7fe 149.54%);
+$color-orange-grad: linear-gradient(113.96deg, #fa6f32 1.49%, #fe9013 101.44%);
+
+$color-gray-smoky: #ababab;
+$color-light-gray: #f1f3f2;
+$color-frosted-glass-white: rgba(253, 253, 255, 0.52);
+// bg-color-buttons
+$background-button: linear-gradient(113.96deg, #f9804b 1.49%, #fe9013 101.44%);
+$background-button-hover: #e47209;
+$background-button-active: #4b9200;
+$background-button-disabled: #767474;
+// bg-colors
+$background-color-white: #fff;
+$background-color-main: #e5e5e5;
+$background-color-orange: #fe9013;
+$background-color-black: #000;
+$bg-color-black2: #111115;
+$bg-mint-cream: #f5f7f6;
+$bg-frosted-glass-white: rgba(253, 253, 255, 0.52);
+$background-color-beige-white: rgba(255, 255, 255, 0.52);
+$bg-color-grey: rgba(196, 196, 196, 0.5);
+$background-color-orange-grad: linear-gradient(315.75deg, rgba(254, 210, 144, 0.7) 30.06%, #febdab 100.95%, rgba(254, 210, 144, 0.7) 106.36%),
+  linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #e0d8f0 80.49%, #eaf7fe 127.9%, #eaf7fe 149.54%),
+  linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #e0d8f0 80.49%, #eaf7fe 127.9%, #eaf7fe 149.54%);
+$background-color-beige: rgba(253, 253, 255, 0.52);
+$transition: 0.3s;
+//blocs
+$header-height-desktop: 80px;
+$header-height-mobile: 34px;
