@@ -2728,11 +2728,14 @@ input[type=number] {
   }
 }
 .footer__author {
+  margin-bottom: 10px;
   border-bottom: 1px solid transparent;
   transition: color 0.3s, border-color 0.3s;
+
 }
 .footer__text {
   margin-top: 10px;
+  
   border-bottom: 1px solid transparent;
   transition: color 0.3s, border-color 0.3s;
 }
