@@ -4,7 +4,7 @@ Online-zoo is a platform that collects information about animals from various zo
 
 Stack: HTML, CSS, SASS, JavaScript
 
-<a href="https://oolenkazolot.github.io/online-zoo/" target="_blank">Link</a>
+[Link](https://oolenkazolot.github.io/online-zoo/)
 
 # Main Screen
 
@@ -32,9 +32,7 @@ Stack: HTML, CSS, SASS, JavaScript
 
   <image src="assets/images/screenshots/Screenshot_7.png" alt="mobile-1">
   <image src="assets/images/screenshots/Screenshot_8.png" alt="mobile-2">
-
   <image src="assets/images/screenshots/Screenshot_9.png" alt="mobile-3">
   <image src="assets/images/screenshots/Screenshot_10.png" alt="mobile-4">
-
   <image src="assets/images/screenshots/Screenshot_11.png" alt="mobile-5">
   <image src="assets/images/screenshots/Screenshot_12.png" alt="mobile-6">
