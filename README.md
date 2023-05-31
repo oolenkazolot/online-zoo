@@ -10,7 +10,6 @@ Stack: HTML, CSS, SASS, JavaScript
 
 <image src="assets/images/screenshots/Screenshot_1.png" alt="main-screen-1">
 <image src="assets/images/screenshots/Screenshot_3.png" alt="main-screen-2">
-<image src="assets/images/screenshots/Screenshot_4.png" alt="main-screen-3">
 
 # Infinite slider has been implemented in the Pets section
 
@@ -31,6 +30,7 @@ Stack: HTML, CSS, SASS, JavaScript
 
 # Mobile view
 
+<div style="text-align:center">
   <image src="assets/images/screenshots/Screenshot_7.png" alt="mobile-1">
   <image src="assets/images/screenshots/Screenshot_8.png" alt="mobile-2">
 
@@ -39,3 +39,4 @@ Stack: HTML, CSS, SASS, JavaScript
 
   <image src="assets/images/screenshots/Screenshot_11.png" alt="mobile-5">
   <image src="assets/images/screenshots/Screenshot_12.png" alt="mobile-6">
+<div>
