@@ -4,7 +4,7 @@ Online-zoo is a platform that collects information about animals from various zo
 
 Stack: HTML, CSS, SASS, JavaScript
 
-[Link](https://oolenkazolot.github.io/online-zoo/)
+<a href="https://oolenkazolot.github.io/online-zoo/" target="_blank">Link</a>
 
 # Main Screen
 
